@@ -1,0 +1,2548 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Responsive Recent Post Slider Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-07 15:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:42
+msgid "-- Choose Shortcode --"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:230
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:164
+msgid ""
+"<strong>Note</strong> - If you need a <b>Featured Post</b> OR <b>"
+"Trending/Popular Post</b> plugin then try our plugins."
+msgstr ""
+
+#: edd-post-plugin.php:125 edd-post-plugin.php:126
+msgid "Account Page"
+msgstr ""
+
+#: edd-post-plugin.php:85
+msgid "Activate License"
+msgstr ""
+
+#: edd-post-plugin.php:352
+msgid "Activate Plugin License"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:271
+#: includes/widgets/class-wprpsp-post-list-slider2.php:253
+msgid "Activate Slider"
+msgstr ""
+
+#: edd-post-plugin.php:120
+msgid ""
+"After save changes you can see an another button named 'Activate License'."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:182
+msgid "All Shortcodes"
+msgstr ""
+
+#: edd-post-plugin.php:195 edd-post-plugin.php:242 edd-post-plugin.php:302
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:280
+msgid "Arrows"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:221
+#: includes/admin/supports/class-wprpsp-vc.php:281
+#: includes/admin/supports/class-wprpsp-vc.php:774
+#: includes/admin/supports/class-wprpsp-vc.php:1218
+#: includes/admin/supports/wprpsp-shortcode-fields.php:377
+#: includes/admin/supports/wprpsp-shortcode-fields.php:829
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1212
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:286
+#: includes/widgets/class-wprpsp-post-list-slider2.php:268
+#: includes/widgets/class-wprpsp-post-slider.php:289
+msgid "Auto Play"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:403
+#: includes/admin/supports/class-wprpsp-vc.php:914
+#: includes/admin/supports/class-wprpsp-vc.php:1340
+#: includes/admin/supports/wprpsp-shortcode-fields.php:225
+#: includes/admin/supports/wprpsp-shortcode-fields.php:689
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1072
+msgid "Autoplay"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:295
+#: includes/widgets/class-wprpsp-post-list-slider2.php:277
+#: includes/widgets/class-wprpsp-post-slider.php:298
+#: includes/admin/supports/class-wprpsp-vc.php:415
+#: includes/admin/supports/class-wprpsp-vc.php:926
+#: includes/admin/supports/class-wprpsp-vc.php:1352
+#: includes/admin/supports/wprpsp-shortcode-fields.php:235
+#: includes/admin/supports/wprpsp-shortcode-fields.php:699
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1082
+msgid "Autoplay Interval"
+msgstr ""
+
+#: templates/carousel/design-1.php:36 templates/carousel/design-10.php:37
+#: templates/carousel/design-11.php:37 templates/carousel/design-12.php:30
+#: templates/carousel/design-13.php:39 templates/carousel/design-14.php:41
+#: templates/carousel/design-15.php:37 templates/carousel/design-16.php:37
+#: templates/carousel/design-17.php:37 templates/carousel/design-18.php:36
+#: templates/carousel/design-19.php:36 templates/carousel/design-2.php:37
+#: templates/carousel/design-20.php:40 templates/carousel/design-21.php:36
+#: templates/carousel/design-22.php:31 templates/carousel/design-23.php:36
+#: templates/carousel/design-24.php:37 templates/carousel/design-25.php:39
+#: templates/carousel/design-26.php:31 templates/carousel/design-27.php:37
+#: templates/carousel/design-28.php:37 templates/carousel/design-29.php:38
+#: templates/carousel/design-3.php:31 templates/carousel/design-30.php:37
+#: templates/carousel/design-4.php:37 templates/carousel/design-5.php:36
+#: templates/carousel/design-6.php:40 templates/carousel/design-7.php:35
+#: templates/carousel/design-8.php:38 templates/carousel/design-9.php:35
+#: templates/gridbox/design-1.php:50 templates/gridbox/design-2.php:48
+#: templates/gridbox/design-3.php:59 templates/gridbox/design-4.php:50
+#: templates/gridbox/design-5.php:49 templates/gridbox/design-6.php:61
+#: templates/gridbox/design-7.php:60 templates/gridbox/design-8.php:58
+#: templates/slider/design-1.php:33 templates/slider/design-10.php:37
+#: templates/slider/design-11.php:32 templates/slider/design-12.php:43
+#: templates/slider/design-13.php:30 templates/slider/design-14.php:37
+#: templates/slider/design-15.php:37 templates/slider/design-16.php:37
+#: templates/slider/design-17.php:39 templates/slider/design-18.php:31
+#: templates/slider/design-19.php:30 templates/slider/design-2.php:32
+#: templates/slider/design-20.php:36 templates/slider/design-21.php:24
+#: templates/slider/design-22.php:41 templates/slider/design-23.php:37
+#: templates/slider/design-24.php:30 templates/slider/design-25.php:30
+#: templates/slider/design-3.php:36 templates/slider/design-4.php:41
+#: templates/slider/design-5.php:31 templates/slider/design-6.php:45
+#: templates/slider/design-7.php:33 templates/slider/design-8.php:30
+#: templates/slider/design-9.php:43
+msgid "By"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:543
+#: includes/admin/supports/wprpsp-shortcode-fields.php:481
+msgid "Carousel Design 1"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:552
+#: includes/admin/supports/wprpsp-shortcode-fields.php:490
+msgid "Carousel Design 10"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:553
+#: includes/admin/supports/wprpsp-shortcode-fields.php:491
+msgid "Carousel Design 11"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:554
+#: includes/admin/supports/wprpsp-shortcode-fields.php:492
+msgid "Carousel Design 12"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:555
+#: includes/admin/supports/wprpsp-shortcode-fields.php:493
+msgid "Carousel Design 13"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:556
+#: includes/admin/supports/wprpsp-shortcode-fields.php:494
+msgid "Carousel Design 14"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:557
+#: includes/admin/supports/wprpsp-shortcode-fields.php:495
+msgid "Carousel Design 15"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:558
+#: includes/admin/supports/wprpsp-shortcode-fields.php:496
+msgid "Carousel Design 16"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:559
+#: includes/admin/supports/wprpsp-shortcode-fields.php:497
+msgid "Carousel Design 17"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:560
+#: includes/admin/supports/wprpsp-shortcode-fields.php:498
+msgid "Carousel Design 18"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:561
+#: includes/admin/supports/wprpsp-shortcode-fields.php:499
+msgid "Carousel Design 19"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:544
+#: includes/admin/supports/wprpsp-shortcode-fields.php:482
+msgid "Carousel Design 2"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:562
+#: includes/admin/supports/wprpsp-shortcode-fields.php:500
+msgid "Carousel Design 20"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:563
+#: includes/admin/supports/wprpsp-shortcode-fields.php:501
+msgid "Carousel Design 21"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:564
+#: includes/admin/supports/wprpsp-shortcode-fields.php:502
+msgid "Carousel Design 22"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:565
+#: includes/admin/supports/wprpsp-shortcode-fields.php:503
+msgid "Carousel Design 23"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:566
+#: includes/admin/supports/wprpsp-shortcode-fields.php:504
+msgid "Carousel Design 24"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:567
+#: includes/admin/supports/wprpsp-shortcode-fields.php:505
+msgid "Carousel Design 25"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:568
+#: includes/admin/supports/wprpsp-shortcode-fields.php:506
+msgid "Carousel Design 26"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:569
+#: includes/admin/supports/wprpsp-shortcode-fields.php:507
+msgid "Carousel Design 27"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:570
+#: includes/admin/supports/wprpsp-shortcode-fields.php:508
+msgid "Carousel Design 28"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:571
+#: includes/admin/supports/wprpsp-shortcode-fields.php:509
+msgid "Carousel Design 29"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:545
+#: includes/admin/supports/wprpsp-shortcode-fields.php:483
+msgid "Carousel Design 3"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:572
+#: includes/admin/supports/wprpsp-shortcode-fields.php:510
+msgid "Carousel Design 30"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:546
+#: includes/admin/supports/wprpsp-shortcode-fields.php:484
+msgid "Carousel Design 4"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:547
+#: includes/admin/supports/wprpsp-shortcode-fields.php:485
+msgid "Carousel Design 5"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:548
+#: includes/admin/supports/wprpsp-shortcode-fields.php:486
+msgid "Carousel Design 6"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:549
+#: includes/admin/supports/wprpsp-shortcode-fields.php:487
+msgid "Carousel Design 7"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:550
+#: includes/admin/supports/wprpsp-shortcode-fields.php:488
+msgid "Carousel Design 8"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:551
+#: includes/admin/supports/wprpsp-shortcode-fields.php:489
+msgid "Carousel Design 9"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:154
+#: includes/widgets/class-wprpsp-post-list-slider2.php:150
+#: includes/widgets/class-wprpsp-post-slider.php:155
+msgid "Category"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:960
+#: includes/admin/supports/wprpsp-shortcode-fields.php:727
+msgid "Center Mode"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:209
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:272
+#: includes/widgets/class-wprpsp-post-list-slider2.php:254
+msgid "Check this box to display post in slider View."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:256
+#: includes/widgets/class-wprpsp-post-slider.php:275
+msgid "Check this box to fill image in a whole div."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:77
+#: includes/admin/supports/class-wprpsp-vc.php:574
+#: includes/admin/supports/class-wprpsp-vc.php:1052
+#: includes/admin/supports/wprpsp-shortcode-fields.php:58
+#: includes/admin/supports/wprpsp-shortcode-fields.php:512
+#: includes/admin/supports/wprpsp-shortcode-fields.php:942
+msgid "Choose design."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:184
+#: includes/admin/supports/class-wprpsp-vc.php:681
+#: includes/admin/supports/class-wprpsp-vc.php:1133
+#: includes/admin/supports/wprpsp-shortcode-fields.php:157
+#: includes/admin/supports/wprpsp-shortcode-fields.php:611
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1015
+msgid "Choose link bahaviour."
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:58
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:58
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:41
+#: includes/admin/supports/class-wprpsp-vc.php:533
+#: includes/admin/supports/class-wprpsp-vc.php:1033
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:240
+#: includes/widgets/class-wprpsp-post-list-slider2.php:236
+#: includes/admin/supports/class-wprpsp-vc.php:139
+#: includes/admin/supports/class-wprpsp-vc.php:636
+#: includes/admin/supports/class-wprpsp-vc.php:1115
+#: includes/admin/supports/wprpsp-shortcode-fields.php:113
+#: includes/admin/supports/wprpsp-shortcode-fields.php:567
+#: includes/admin/supports/wprpsp-shortcode-fields.php:998
+msgid "Content Tail"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:233
+#: includes/widgets/class-wprpsp-post-list-slider2.php:229
+#: includes/admin/supports/class-wprpsp-vc.php:127
+#: includes/admin/supports/class-wprpsp-vc.php:624
+#: includes/admin/supports/class-wprpsp-vc.php:1103
+#: includes/admin/supports/wprpsp-shortcode-fields.php:102
+#: includes/admin/supports/wprpsp-shortcode-fields.php:556
+#: includes/admin/supports/wprpsp-shortcode-fields.php:987
+msgid "Content Words Limit"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:200
+#: includes/admin/supports/class-wprpsp-vc.php:697
+#: includes/admin/supports/class-wprpsp-vc.php:1141
+#: includes/admin/supports/wprpsp-shortcode-fields.php:171
+#: includes/admin/supports/wprpsp-shortcode-fields.php:625
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1022
+msgid ""
+"Control height of the featured image. You can enter any numeric number. e.g "
+"500. Leave empty for default height."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:82
+msgid "Copy or Paste Shortcode"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:141
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:132
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:234
+#: includes/admin/supports/class-wprpsp-vc.php:244
+#: includes/admin/supports/class-wprpsp-vc.php:254
+#: includes/admin/supports/class-wprpsp-vc.php:272
+#: includes/admin/supports/class-wprpsp-vc.php:284
+#: includes/admin/supports/class-wprpsp-vc.php:293
+#: includes/admin/supports/class-wprpsp-vc.php:305
+#: includes/admin/supports/class-wprpsp-vc.php:314
+#: includes/admin/supports/class-wprpsp-vc.php:323
+#: includes/admin/supports/class-wprpsp-vc.php:332
+#: includes/admin/supports/class-wprpsp-vc.php:341
+#: includes/admin/supports/class-wprpsp-vc.php:350
+#: includes/admin/supports/class-wprpsp-vc.php:363
+#: includes/admin/supports/class-wprpsp-vc.php:372
+#: includes/admin/supports/class-wprpsp-vc.php:727
+#: includes/admin/supports/class-wprpsp-vc.php:737
+#: includes/admin/supports/class-wprpsp-vc.php:747
+#: includes/admin/supports/class-wprpsp-vc.php:765
+#: includes/admin/supports/class-wprpsp-vc.php:777
+#: includes/admin/supports/class-wprpsp-vc.php:786
+#: includes/admin/supports/class-wprpsp-vc.php:798
+#: includes/admin/supports/class-wprpsp-vc.php:807
+#: includes/admin/supports/class-wprpsp-vc.php:816
+#: includes/admin/supports/class-wprpsp-vc.php:825
+#: includes/admin/supports/class-wprpsp-vc.php:834
+#: includes/admin/supports/class-wprpsp-vc.php:843
+#: includes/admin/supports/class-wprpsp-vc.php:856
+#: includes/admin/supports/class-wprpsp-vc.php:865
+#: includes/admin/supports/class-wprpsp-vc.php:1171
+#: includes/admin/supports/class-wprpsp-vc.php:1181
+#: includes/admin/supports/class-wprpsp-vc.php:1191
+#: includes/admin/supports/class-wprpsp-vc.php:1209
+#: includes/admin/supports/class-wprpsp-vc.php:1221
+#: includes/admin/supports/class-wprpsp-vc.php:1230
+#: includes/admin/supports/class-wprpsp-vc.php:1242
+#: includes/admin/supports/class-wprpsp-vc.php:1251
+#: includes/admin/supports/class-wprpsp-vc.php:1260
+#: includes/admin/supports/class-wprpsp-vc.php:1269
+#: includes/admin/supports/class-wprpsp-vc.php:1278
+#: includes/admin/supports/class-wprpsp-vc.php:1287
+#: includes/admin/supports/class-wprpsp-vc.php:1300
+#: includes/admin/supports/class-wprpsp-vc.php:1309
+msgid "Data Settings"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:54
+msgid "Default Featured Image"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:211
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:222
+#: includes/admin/supports/class-wprpsp-vc.php:280
+#: includes/admin/supports/class-wprpsp-vc.php:773
+#: includes/admin/supports/class-wprpsp-vc.php:1217
+#: includes/admin/supports/wprpsp-shortcode-fields.php:376
+#: includes/admin/supports/wprpsp-shortcode-fields.php:828
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1211
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:48
+#: includes/admin/supports/class-wprpsp-vc.php:540
+#: includes/admin/supports/class-wprpsp-vc.php:1040
+#: includes/admin/supports/wprpsp-shortcode-fields.php:29
+#: includes/admin/supports/wprpsp-shortcode-fields.php:478
+#: includes/admin/supports/wprpsp-shortcode-fields.php:930
+msgid "Design"
+msgstr ""
+
+#: includes/wprpsp-functions.php:432 includes/wprpsp-functions.php:469
+#: includes/wprpsp-functions.php:511
+msgid "Design 1"
+msgstr ""
+
+#: includes/wprpsp-functions.php:441 includes/wprpsp-functions.php:478
+msgid "Design 10"
+msgstr ""
+
+#: includes/wprpsp-functions.php:442 includes/wprpsp-functions.php:479
+msgid "Design 11"
+msgstr ""
+
+#: includes/wprpsp-functions.php:443 includes/wprpsp-functions.php:480
+msgid "Design 12"
+msgstr ""
+
+#: includes/wprpsp-functions.php:444 includes/wprpsp-functions.php:481
+msgid "Design 13"
+msgstr ""
+
+#: includes/wprpsp-functions.php:445 includes/wprpsp-functions.php:482
+msgid "Design 14"
+msgstr ""
+
+#: includes/wprpsp-functions.php:446 includes/wprpsp-functions.php:483
+msgid "Design 15"
+msgstr ""
+
+#: includes/wprpsp-functions.php:447 includes/wprpsp-functions.php:484
+msgid "Design 16"
+msgstr ""
+
+#: includes/wprpsp-functions.php:448 includes/wprpsp-functions.php:485
+msgid "Design 17"
+msgstr ""
+
+#: includes/wprpsp-functions.php:449 includes/wprpsp-functions.php:486
+msgid "Design 18"
+msgstr ""
+
+#: includes/wprpsp-functions.php:450 includes/wprpsp-functions.php:487
+msgid "Design 19"
+msgstr ""
+
+#: includes/wprpsp-functions.php:433 includes/wprpsp-functions.php:470
+#: includes/wprpsp-functions.php:512
+msgid "Design 2"
+msgstr ""
+
+#: includes/wprpsp-functions.php:451 includes/wprpsp-functions.php:488
+msgid "Design 20"
+msgstr ""
+
+#: includes/wprpsp-functions.php:452 includes/wprpsp-functions.php:489
+msgid "Design 21"
+msgstr ""
+
+#: includes/wprpsp-functions.php:453 includes/wprpsp-functions.php:490
+msgid "Design 22"
+msgstr ""
+
+#: includes/wprpsp-functions.php:454 includes/wprpsp-functions.php:491
+msgid "Design 23"
+msgstr ""
+
+#: includes/wprpsp-functions.php:455 includes/wprpsp-functions.php:492
+msgid "Design 24"
+msgstr ""
+
+#: includes/wprpsp-functions.php:456 includes/wprpsp-functions.php:493
+msgid "Design 25"
+msgstr ""
+
+#: includes/wprpsp-functions.php:494
+msgid "Design 26"
+msgstr ""
+
+#: includes/wprpsp-functions.php:495
+msgid "Design 27"
+msgstr ""
+
+#: includes/wprpsp-functions.php:496
+msgid "Design 28"
+msgstr ""
+
+#: includes/wprpsp-functions.php:497
+msgid "Design 29"
+msgstr ""
+
+#: includes/wprpsp-functions.php:434 includes/wprpsp-functions.php:471
+#: includes/wprpsp-functions.php:513
+msgid "Design 3"
+msgstr ""
+
+#: includes/wprpsp-functions.php:498
+msgid "Design 30"
+msgstr ""
+
+#: includes/wprpsp-functions.php:435 includes/wprpsp-functions.php:472
+#: includes/wprpsp-functions.php:514
+msgid "Design 4"
+msgstr ""
+
+#: includes/wprpsp-functions.php:436 includes/wprpsp-functions.php:473
+#: includes/wprpsp-functions.php:515
+msgid "Design 5"
+msgstr ""
+
+#: includes/wprpsp-functions.php:437 includes/wprpsp-functions.php:474
+#: includes/wprpsp-functions.php:516
+msgid "Design 6"
+msgstr ""
+
+#: includes/wprpsp-functions.php:438 includes/wprpsp-functions.php:475
+#: includes/wprpsp-functions.php:517
+msgid "Design 7"
+msgstr ""
+
+#: includes/wprpsp-functions.php:439 includes/wprpsp-functions.php:476
+#: includes/wprpsp-functions.php:518
+msgid "Design 8"
+msgstr ""
+
+#: includes/wprpsp-functions.php:440 includes/wprpsp-functions.php:477
+msgid "Design 9"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1106
+msgid "Dispaly content words limit."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:100
+#: includes/admin/supports/class-wprpsp-vc.php:597
+#: includes/admin/supports/class-wprpsp-vc.php:1075
+#: includes/admin/supports/wprpsp-shortcode-fields.php:78
+#: includes/admin/supports/wprpsp-shortcode-fields.php:532
+#: includes/admin/supports/wprpsp-shortcode-fields.php:962
+msgid "Display author."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:210
+#: includes/widgets/class-wprpsp-post-list-slider2.php:206
+#: includes/widgets/class-wprpsp-post-slider.php:256
+msgid "Display Category"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:111
+#: includes/admin/supports/class-wprpsp-vc.php:608
+#: includes/admin/supports/class-wprpsp-vc.php:1086
+#: includes/admin/supports/wprpsp-shortcode-fields.php:88
+#: includes/admin/supports/wprpsp-shortcode-fields.php:542
+#: includes/admin/supports/wprpsp-shortcode-fields.php:972
+msgid "Display category."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:222
+#: includes/widgets/class-wprpsp-post-list-slider2.php:218
+msgid "Display Content"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:130
+#: includes/admin/supports/class-wprpsp-vc.php:627
+#: includes/admin/supports/wprpsp-shortcode-fields.php:105
+#: includes/admin/supports/wprpsp-shortcode-fields.php:559
+#: includes/admin/supports/wprpsp-shortcode-fields.php:990
+msgid "Display content words limit."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:122
+#: includes/admin/supports/class-wprpsp-vc.php:619
+#: includes/admin/supports/class-wprpsp-vc.php:1098
+#: includes/admin/supports/wprpsp-shortcode-fields.php:98
+#: includes/admin/supports/wprpsp-shortcode-fields.php:552
+#: includes/admin/supports/wprpsp-shortcode-fields.php:983
+msgid "Display content."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:204
+#: includes/widgets/class-wprpsp-post-list-slider2.php:200
+#: includes/widgets/class-wprpsp-post-slider.php:250
+msgid "Display Date"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:89
+#: includes/admin/supports/class-wprpsp-vc.php:586
+#: includes/admin/supports/class-wprpsp-vc.php:1064
+#: includes/admin/supports/wprpsp-shortcode-fields.php:68
+#: includes/admin/supports/wprpsp-shortcode-fields.php:522
+#: includes/admin/supports/wprpsp-shortcode-fields.php:952
+msgid "Display date."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:142
+#: includes/admin/supports/class-wprpsp-vc.php:639
+#: includes/admin/supports/class-wprpsp-vc.php:1118
+#: includes/admin/supports/wprpsp-shortcode-fields.php:117
+#: includes/admin/supports/wprpsp-shortcode-fields.php:571
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1001
+msgid "Display dots after the post content as continue reading."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:534
+msgid "Display Post in a carousel view."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1034
+msgid "Display Post in a gridbox slider view."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:42
+msgid "Display Post in a slider view."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:161
+#: includes/admin/supports/class-wprpsp-vc.php:658
+#: includes/admin/supports/wprpsp-shortcode-fields.php:135
+#: includes/admin/supports/wprpsp-shortcode-fields.php:589
+msgid "Display read more."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:289
+#: includes/admin/supports/class-wprpsp-vc.php:782
+#: includes/admin/supports/class-wprpsp-vc.php:1226
+#: includes/admin/supports/wprpsp-shortcode-fields.php:383
+#: includes/admin/supports/wprpsp-shortcode-fields.php:835
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1218
+msgid "Display Specific Category"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:319
+#: includes/admin/supports/class-wprpsp-vc.php:812
+#: includes/admin/supports/class-wprpsp-vc.php:1256
+#: includes/admin/supports/wprpsp-shortcode-fields.php:409
+#: includes/admin/supports/wprpsp-shortcode-fields.php:861
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1244
+msgid "Display Specific Post"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:228
+msgid "Display Specific Posts"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:228
+#: includes/widgets/class-wprpsp-post-list-slider2.php:224
+#: includes/widgets/class-wprpsp-post-slider.php:268
+#: includes/admin/supports/class-wprpsp-vc.php:355
+#: includes/admin/supports/class-wprpsp-vc.php:848
+#: includes/admin/supports/class-wprpsp-vc.php:1292
+#: includes/admin/supports/wprpsp-shortcode-fields.php:441
+#: includes/admin/supports/wprpsp-shortcode-fields.php:893
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1276
+msgid "Display Sticky Posts"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:362
+#: includes/admin/supports/class-wprpsp-vc.php:855
+#: includes/admin/supports/class-wprpsp-vc.php:1299
+#: includes/admin/supports/wprpsp-shortcode-fields.php:448
+#: includes/admin/supports/wprpsp-shortcode-fields.php:900
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1283
+msgid ""
+"Display sticky posts or not. Note: sticky posts only be displayed at front "
+"side."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider2.php:31
+msgid "Displayed Latest Post Items in a List view OR Slider view"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:31
+msgid "Displayed Latest Post Items in list view OR Slider View"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:31
+msgid "Displayed Latest Post Items with slider"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:435
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:210
+msgid "Documentation"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:277
+#: includes/widgets/class-wprpsp-post-list-slider2.php:259
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:371
+#: includes/admin/supports/class-wprpsp-vc.php:864
+#: includes/admin/supports/class-wprpsp-vc.php:1308
+#: includes/admin/supports/wprpsp-shortcode-fields.php:455
+#: includes/admin/supports/wprpsp-shortcode-fields.php:907
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1290
+msgid ""
+"e.g if you pass 5 then it will skip first five post. Note: This will not "
+"work with limit=-1."
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy to add and display Recent Post Slider with multiple pro designs."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:409
+#: includes/admin/supports/class-wprpsp-vc.php:920
+#: includes/admin/supports/class-wprpsp-vc.php:1346
+#: includes/admin/supports/wprpsp-shortcode-fields.php:231
+#: includes/admin/supports/wprpsp-shortcode-fields.php:695
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1078
+msgid "Enable autoplay."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:967
+#: includes/admin/supports/wprpsp-shortcode-fields.php:734
+msgid ""
+"Enable centered view with partial prev/next slides. Use with odd numbered "
+"`Slides to Scroll` and `Slider Column` counts."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:444
+#: includes/admin/supports/class-wprpsp-vc.php:1381
+#: includes/admin/supports/wprpsp-shortcode-fields.php:260
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1107
+msgid "Enable fade effect."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:456
+#: includes/admin/supports/class-wprpsp-vc.php:954
+#: includes/admin/supports/class-wprpsp-vc.php:1393
+#: includes/admin/supports/wprpsp-shortcode-fields.php:270
+#: includes/admin/supports/wprpsp-shortcode-fields.php:723
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1117
+msgid "Enable infinite loop for continuous sliding."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:230
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:340
+#: includes/admin/supports/class-wprpsp-vc.php:833
+#: includes/admin/supports/class-wprpsp-vc.php:1277
+#: includes/admin/supports/wprpsp-shortcode-fields.php:429
+#: includes/admin/supports/wprpsp-shortcode-fields.php:881
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1264
+msgid "Enter author id to display posts of particular author."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:349
+#: includes/admin/supports/class-wprpsp-vc.php:842
+#: includes/admin/supports/class-wprpsp-vc.php:1286
+#: includes/admin/supports/wprpsp-shortcode-fields.php:437
+#: includes/admin/supports/wprpsp-shortcode-fields.php:889
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1272
+msgid ""
+"Enter author id to hide post of particular author. Works only if `Include "
+"Author` field is empty."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:422
+#: includes/admin/supports/class-wprpsp-vc.php:933
+#: includes/admin/supports/class-wprpsp-vc.php:1359
+#: includes/admin/supports/wprpsp-shortcode-fields.php:242
+#: includes/admin/supports/wprpsp-shortcode-fields.php:706
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1089
+msgid "Enter autoplay speed."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:292
+#: includes/admin/supports/class-wprpsp-vc.php:785
+#: includes/admin/supports/class-wprpsp-vc.php:1229
+#: includes/admin/supports/wprpsp-shortcode-fields.php:387
+#: includes/admin/supports/wprpsp-shortcode-fields.php:839
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1222
+msgid "Enter category id to display categories wise."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:242
+msgid "Enter content tail."
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:145
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:223
+#: includes/admin/supports/class-wprpsp-vc.php:716
+#: includes/admin/supports/class-wprpsp-vc.php:1160
+#: includes/admin/supports/wprpsp-shortcode-fields.php:192
+#: includes/admin/supports/wprpsp-shortcode-fields.php:642
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1039
+msgid "Enter extra CSS class for design customization."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:331
+#: includes/admin/supports/class-wprpsp-vc.php:824
+#: includes/admin/supports/class-wprpsp-vc.php:1268
+#: includes/admin/supports/wprpsp-shortcode-fields.php:421
+#: includes/admin/supports/wprpsp-shortcode-fields.php:873
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1256
+msgid "Enter id of the post which you do not want to display."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:322
+#: includes/admin/supports/class-wprpsp-vc.php:815
+#: includes/admin/supports/class-wprpsp-vc.php:1259
+#: includes/admin/supports/wprpsp-shortcode-fields.php:413
+#: includes/admin/supports/wprpsp-shortcode-fields.php:865
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1248
+msgid "Enter id of the post which you want to display."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:192
+#: includes/admin/supports/class-wprpsp-vc.php:689
+#: includes/admin/supports/wprpsp-shortcode-fields.php:164
+#: includes/admin/supports/wprpsp-shortcode-fields.php:618
+msgid ""
+"Enter image size which is generated by WordPress. e.g thumbnail, medium, "
+"large, full"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:875
+#: includes/admin/supports/wprpsp-shortcode-fields.php:658
+msgid "Enter number for Slide to show at a time."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:235
+msgid "Enter number of content words to be displayed."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:253
+#: includes/admin/supports/class-wprpsp-vc.php:746
+#: includes/admin/supports/class-wprpsp-vc.php:1190
+#: includes/admin/supports/wprpsp-shortcode-fields.php:353
+#: includes/admin/supports/wprpsp-shortcode-fields.php:805
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1188
+msgid "Enter number of post to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:198
+#: includes/widgets/class-wprpsp-post-list-slider2.php:194
+#: includes/widgets/class-wprpsp-post-slider.php:199
+msgid "Enter number of recent post to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:497
+#: includes/admin/supports/wprpsp-shortcode-fields.php:307
+msgid "Enter number of slider navigation column."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:884
+#: includes/admin/supports/wprpsp-shortcode-fields.php:665
+msgid "Enter number of slides to scroll at a time."
+msgstr ""
+
+#: edd-post-plugin.php:79
+msgid "Enter plugin license key."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:237
+msgid ""
+"Enter Post id which you do not want to display. You can enter multiple ids "
+"with comma seperated."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:230
+msgid ""
+"Enter Post id which you want to display. You can enter multiple ids with "
+"comma seperated."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:169
+#: includes/admin/supports/class-wprpsp-vc.php:666
+#: includes/admin/supports/wprpsp-shortcode-fields.php:142
+#: includes/admin/supports/wprpsp-shortcode-fields.php:596
+msgid "Enter read more text."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:233
+#: includes/admin/supports/class-wprpsp-vc.php:726
+#: includes/admin/supports/class-wprpsp-vc.php:1170
+#: includes/admin/supports/wprpsp-shortcode-fields.php:337
+#: includes/admin/supports/wprpsp-shortcode-fields.php:789
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1172
+msgid ""
+"Enter registered post type name. You can find it on plugin setting page."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:243
+#: includes/admin/supports/class-wprpsp-vc.php:736
+#: includes/admin/supports/class-wprpsp-vc.php:1180
+#: includes/admin/supports/wprpsp-shortcode-fields.php:345
+#: includes/admin/supports/wprpsp-shortcode-fields.php:797
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1180
+msgid "Enter registered taxonomy name. You can find it on plugin setting page."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:431
+#: includes/admin/supports/class-wprpsp-vc.php:942
+#: includes/admin/supports/class-wprpsp-vc.php:1368
+#: includes/admin/supports/wprpsp-shortcode-fields.php:249
+#: includes/admin/supports/wprpsp-shortcode-fields.php:713
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1096
+msgid "Enter slide speed."
+msgstr ""
+
+#: edd-post-plugin.php:337
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:249
+#: includes/widgets/class-wprpsp-post-slider.php:244
+msgid ""
+"Enter WordPress registered image size e.g. thumbnail, medium, large or full."
+msgstr ""
+
+#: edd-post-plugin.php:119
+msgid ""
+"Enter your license key into 'License Key' field and press 'Save Changes' "
+"button."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:180
+#: includes/widgets/class-wprpsp-post-list-slider2.php:176
+#: includes/widgets/class-wprpsp-post-slider.php:181
+#: includes/admin/supports/class-wprpsp-vc.php:346
+#: includes/admin/supports/class-wprpsp-vc.php:839
+#: includes/admin/supports/class-wprpsp-vc.php:1283
+msgid "Exclude Author"
+msgstr ""
+
+#: includes/admin/supports/wprpsp-shortcode-fields.php:433
+#: includes/admin/supports/wprpsp-shortcode-fields.php:885
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1268
+msgid "Exclude author"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:310
+#: includes/admin/supports/class-wprpsp-vc.php:803
+#: includes/admin/supports/class-wprpsp-vc.php:1247
+#: includes/admin/supports/wprpsp-shortcode-fields.php:401
+#: includes/admin/supports/wprpsp-shortcode-fields.php:853
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1236
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:371
+#: includes/admin/supports/class-wprpsp-vc.php:864
+#: includes/admin/supports/class-wprpsp-vc.php:1308
+#: includes/admin/supports/wprpsp-shortcode-fields.php:455
+#: includes/admin/supports/wprpsp-shortcode-fields.php:907
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1290
+msgid "Exclude number of posts from starting."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:328
+#: includes/admin/supports/class-wprpsp-vc.php:821
+#: includes/admin/supports/class-wprpsp-vc.php:1265
+#: includes/admin/supports/wprpsp-shortcode-fields.php:417
+#: includes/admin/supports/wprpsp-shortcode-fields.php:869
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1252
+msgid "Exclude Post"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:313
+#: includes/admin/supports/class-wprpsp-vc.php:806
+#: includes/admin/supports/class-wprpsp-vc.php:1250
+#: includes/admin/supports/wprpsp-shortcode-fields.php:405
+#: includes/admin/supports/wprpsp-shortcode-fields.php:857
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1240
+msgid "Exclude post category. Works only if `Category` field is empty."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:235
+msgid "Exclude Posts"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:220
+#: includes/admin/supports/class-wprpsp-vc.php:713
+#: includes/admin/supports/class-wprpsp-vc.php:1157
+#: includes/admin/supports/wprpsp-shortcode-fields.php:189
+#: includes/admin/supports/wprpsp-shortcode-fields.php:639
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1036
+msgid "Extra Class"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:437
+#: includes/admin/supports/class-wprpsp-vc.php:1374
+#: includes/admin/supports/wprpsp-shortcode-fields.php:253
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1100
+msgid "Fade Effect"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:280
+#: includes/widgets/class-wprpsp-post-list-slider.php:289
+#: includes/widgets/class-wprpsp-post-list-slider.php:310
+#: includes/widgets/class-wprpsp-post-list-slider.php:319
+#: includes/widgets/class-wprpsp-post-list-slider2.php:262
+#: includes/widgets/class-wprpsp-post-list-slider2.php:271
+#: includes/widgets/class-wprpsp-post-list-slider2.php:292
+#: includes/widgets/class-wprpsp-post-list-slider2.php:301
+#: includes/widgets/class-wprpsp-post-slider.php:283
+#: includes/widgets/class-wprpsp-post-slider.php:292
+#: includes/widgets/class-wprpsp-post-slider.php:313
+#: includes/widgets/class-wprpsp-post-slider.php:322
+#: includes/admin/supports/class-wprpsp-vc.php:87
+#: includes/admin/supports/class-wprpsp-vc.php:98
+#: includes/admin/supports/class-wprpsp-vc.php:109
+#: includes/admin/supports/class-wprpsp-vc.php:120
+#: includes/admin/supports/class-wprpsp-vc.php:155
+#: includes/admin/supports/class-wprpsp-vc.php:213
+#: includes/admin/supports/class-wprpsp-vc.php:302
+#: includes/admin/supports/class-wprpsp-vc.php:359
+#: includes/admin/supports/class-wprpsp-vc.php:383
+#: includes/admin/supports/class-wprpsp-vc.php:395
+#: includes/admin/supports/class-wprpsp-vc.php:407
+#: includes/admin/supports/class-wprpsp-vc.php:441
+#: includes/admin/supports/class-wprpsp-vc.php:454
+#: includes/admin/supports/class-wprpsp-vc.php:466
+#: includes/admin/supports/class-wprpsp-vc.php:482
+#: includes/admin/supports/class-wprpsp-vc.php:584
+#: includes/admin/supports/class-wprpsp-vc.php:595
+#: includes/admin/supports/class-wprpsp-vc.php:606
+#: includes/admin/supports/class-wprpsp-vc.php:617
+#: includes/admin/supports/class-wprpsp-vc.php:652
+#: includes/admin/supports/class-wprpsp-vc.php:706
+#: includes/admin/supports/class-wprpsp-vc.php:795
+#: includes/admin/supports/class-wprpsp-vc.php:852
+#: includes/admin/supports/class-wprpsp-vc.php:894
+#: includes/admin/supports/class-wprpsp-vc.php:906
+#: includes/admin/supports/class-wprpsp-vc.php:918
+#: includes/admin/supports/class-wprpsp-vc.php:952
+#: includes/admin/supports/class-wprpsp-vc.php:964
+#: includes/admin/supports/class-wprpsp-vc.php:977
+#: includes/admin/supports/class-wprpsp-vc.php:993
+#: includes/admin/supports/class-wprpsp-vc.php:1062
+#: includes/admin/supports/class-wprpsp-vc.php:1073
+#: includes/admin/supports/class-wprpsp-vc.php:1084
+#: includes/admin/supports/class-wprpsp-vc.php:1095
+#: includes/admin/supports/class-wprpsp-vc.php:1150
+#: includes/admin/supports/class-wprpsp-vc.php:1239
+#: includes/admin/supports/class-wprpsp-vc.php:1296
+#: includes/admin/supports/class-wprpsp-vc.php:1320
+#: includes/admin/supports/class-wprpsp-vc.php:1332
+#: includes/admin/supports/class-wprpsp-vc.php:1344
+#: includes/admin/supports/class-wprpsp-vc.php:1378
+#: includes/admin/supports/class-wprpsp-vc.php:1391
+#: includes/admin/supports/class-wprpsp-vc.php:1403
+#: includes/admin/supports/class-wprpsp-vc.php:1419
+#: includes/admin/supports/wprpsp-shortcode-fields.php:66
+#: includes/admin/supports/wprpsp-shortcode-fields.php:76
+#: includes/admin/supports/wprpsp-shortcode-fields.php:86
+#: includes/admin/supports/wprpsp-shortcode-fields.php:96
+#: includes/admin/supports/wprpsp-shortcode-fields.php:129
+#: includes/admin/supports/wprpsp-shortcode-fields.php:183
+#: includes/admin/supports/wprpsp-shortcode-fields.php:209
+#: includes/admin/supports/wprpsp-shortcode-fields.php:219
+#: includes/admin/supports/wprpsp-shortcode-fields.php:229
+#: includes/admin/supports/wprpsp-shortcode-fields.php:257
+#: includes/admin/supports/wprpsp-shortcode-fields.php:268
+#: includes/admin/supports/wprpsp-shortcode-fields.php:278
+#: includes/admin/supports/wprpsp-shortcode-fields.php:292
+#: includes/admin/supports/wprpsp-shortcode-fields.php:395
+#: includes/admin/supports/wprpsp-shortcode-fields.php:445
+#: includes/admin/supports/wprpsp-shortcode-fields.php:520
+#: includes/admin/supports/wprpsp-shortcode-fields.php:530
+#: includes/admin/supports/wprpsp-shortcode-fields.php:540
+#: includes/admin/supports/wprpsp-shortcode-fields.php:550
+#: includes/admin/supports/wprpsp-shortcode-fields.php:583
+#: includes/admin/supports/wprpsp-shortcode-fields.php:633
+#: includes/admin/supports/wprpsp-shortcode-fields.php:673
+#: includes/admin/supports/wprpsp-shortcode-fields.php:683
+#: includes/admin/supports/wprpsp-shortcode-fields.php:693
+#: includes/admin/supports/wprpsp-shortcode-fields.php:721
+#: includes/admin/supports/wprpsp-shortcode-fields.php:731
+#: includes/admin/supports/wprpsp-shortcode-fields.php:742
+#: includes/admin/supports/wprpsp-shortcode-fields.php:756
+#: includes/admin/supports/wprpsp-shortcode-fields.php:847
+#: includes/admin/supports/wprpsp-shortcode-fields.php:897
+#: includes/admin/supports/wprpsp-shortcode-fields.php:950
+#: includes/admin/supports/wprpsp-shortcode-fields.php:960
+#: includes/admin/supports/wprpsp-shortcode-fields.php:970
+#: includes/admin/supports/wprpsp-shortcode-fields.php:980
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1030
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1056
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1066
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1076
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1104
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1115
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1125
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1139
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1230
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1280
+msgid "False"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:215
+#: includes/admin/supports/class-wprpsp-vc.php:708
+#: includes/admin/supports/class-wprpsp-vc.php:1152
+#: includes/admin/supports/wprpsp-shortcode-fields.php:185
+#: includes/admin/supports/wprpsp-shortcode-fields.php:635
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1032
+msgid "Fill the news image in a whole container."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:78
+msgid "Full Preview Mode"
+msgstr ""
+
+#: includes/admin/supports/wprpsp-shortcode-fields.php:24
+#: includes/admin/supports/wprpsp-shortcode-fields.php:473
+#: includes/admin/supports/wprpsp-shortcode-fields.php:925
+msgid "General Parameters"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:45
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:77
+msgid "Generate"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:23
+#: includes/admin/wprpsp-how-it-work.php:154
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:23
+msgid "Getting Started - WP Responsive Recent Post Slider Pro"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1043
+#: includes/admin/supports/wprpsp-shortcode-fields.php:933
+msgid "Gridbox Design 1"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1044
+#: includes/admin/supports/wprpsp-shortcode-fields.php:934
+msgid "Gridbox Design 2"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1045
+#: includes/admin/supports/wprpsp-shortcode-fields.php:935
+msgid "Gridbox Design 3"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1046
+#: includes/admin/supports/wprpsp-shortcode-fields.php:936
+msgid "Gridbox Design 4"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1047
+#: includes/admin/supports/wprpsp-shortcode-fields.php:937
+msgid "Gridbox Design 5"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1048
+#: includes/admin/supports/wprpsp-shortcode-fields.php:938
+msgid "Gridbox Design 6"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1049
+#: includes/admin/supports/wprpsp-shortcode-fields.php:939
+msgid "Gridbox Design 7"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1050
+#: includes/admin/supports/wprpsp-shortcode-fields.php:940
+msgid "Gridbox Design 8"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:227
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:220
+msgid "Hire our experts for any WordPress task."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:113
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:146
+msgid "How It Works - Display And Shortcode"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:170
+msgid "How Shortcode Works"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:304
+#: includes/admin/supports/class-wprpsp-vc.php:797
+#: includes/admin/supports/class-wprpsp-vc.php:1241
+#: includes/admin/supports/wprpsp-shortcode-fields.php:397
+#: includes/admin/supports/wprpsp-shortcode-fields.php:849
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1232
+msgid ""
+"If you are using parent category then whether to display child category or "
+"not."
+msgstr ""
+
+#: includes/admin/metabox/wprpsp-post-sett-metabox.php:30
+msgid ""
+"If you have different URL then enter read more link for post or Leave empty "
+"for current post URL."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:255
+#: includes/widgets/class-wprpsp-post-slider.php:274
+#: includes/admin/supports/class-wprpsp-vc.php:209
+#: includes/admin/supports/class-wprpsp-vc.php:702
+#: includes/admin/supports/class-wprpsp-vc.php:1146
+#: includes/admin/supports/wprpsp-shortcode-fields.php:179
+#: includes/admin/supports/wprpsp-shortcode-fields.php:629
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1026
+msgid "Image Fit"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:694
+#: includes/admin/supports/class-wprpsp-vc.php:1138
+#: includes/admin/supports/wprpsp-shortcode-fields.php:622
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1019
+msgid "Image Height"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:247
+#: includes/widgets/class-wprpsp-post-slider.php:242
+#: includes/admin/supports/class-wprpsp-vc.php:189
+#: includes/admin/supports/class-wprpsp-vc.php:686
+#: includes/admin/supports/wprpsp-shortcode-fields.php:161
+#: includes/admin/supports/wprpsp-shortcode-fields.php:615
+msgid "Image Size"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:166
+#: includes/widgets/class-wprpsp-post-list-slider2.php:162
+#: includes/widgets/class-wprpsp-post-slider.php:167
+#: includes/admin/supports/class-wprpsp-vc.php:337
+#: includes/admin/supports/class-wprpsp-vc.php:830
+#: includes/admin/supports/class-wprpsp-vc.php:1274
+msgid "Include Author"
+msgstr ""
+
+#: includes/admin/supports/wprpsp-shortcode-fields.php:425
+#: includes/admin/supports/wprpsp-shortcode-fields.php:877
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1260
+msgid "Include author"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:298
+#: includes/admin/supports/class-wprpsp-vc.php:791
+#: includes/admin/supports/class-wprpsp-vc.php:1235
+#: includes/admin/supports/wprpsp-shortcode-fields.php:391
+#: includes/admin/supports/wprpsp-shortcode-fields.php:843
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1226
+msgid "Include Category Children"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:450
+#: includes/admin/supports/class-wprpsp-vc.php:948
+#: includes/admin/supports/class-wprpsp-vc.php:1387
+#: includes/admin/supports/wprpsp-shortcode-fields.php:264
+#: includes/admin/supports/wprpsp-shortcode-fields.php:717
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1111
+msgid "Infinite"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:58
+msgid "Insert Logo"
+msgstr ""
+
+#: wp-recent-post-slider.php:207
+#, php-format
+msgid ""
+"It looks like you had FREE version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:221
+msgid "Know More"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:32
+#: includes/widgets/class-wprpsp-post-list-slider.php:39
+msgid "Latest Post List/Slider 1"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider2.php:32
+#: includes/widgets/class-wprpsp-post-list-slider2.php:39
+msgid "Latest Post List/Slider 2"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:32
+#: includes/widgets/class-wprpsp-post-slider.php:39
+msgid "Latest Post Slider Widget"
+msgstr ""
+
+#: edd-post-plugin.php:352
+msgid "License"
+msgstr ""
+
+#: edd-post-plugin.php:75
+msgid "License Key"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:178
+#: includes/admin/supports/class-wprpsp-vc.php:675
+#: includes/admin/supports/class-wprpsp-vc.php:1127
+#: includes/admin/supports/wprpsp-shortcode-fields.php:151
+#: includes/admin/supports/wprpsp-shortcode-fields.php:605
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1009
+msgid "Link Behaviour"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:269
+#: includes/admin/supports/class-wprpsp-vc.php:762
+#: includes/admin/supports/class-wprpsp-vc.php:1206
+#: includes/admin/supports/wprpsp-shortcode-fields.php:367
+#: includes/admin/supports/wprpsp-shortcode-fields.php:819
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1202
+msgid "Menu Order"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:213
+msgid "Menu Order (Sort Order)"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:494
+#: includes/admin/supports/wprpsp-shortcode-fields.php:303
+msgid "Nav Slides Column"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:217
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:206
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:182
+#: includes/admin/supports/class-wprpsp-vc.php:679
+#: includes/admin/supports/class-wprpsp-vc.php:1131
+#: includes/admin/supports/wprpsp-shortcode-fields.php:155
+#: includes/admin/supports/wprpsp-shortcode-fields.php:609
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1013
+msgid "New Window"
+msgstr ""
+
+#: includes/wprpsp-functions.php:349
+msgid "No taxonomies found"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:233
+#: includes/admin/supports/class-wprpsp-vc.php:726
+#: includes/admin/supports/class-wprpsp-vc.php:1170
+#: includes/admin/supports/wprpsp-shortcode-fields.php:337
+#: includes/admin/supports/wprpsp-shortcode-fields.php:789
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1172
+msgid ""
+"Note: Be sure you have added valid post type name otherwise no result will "
+"be displayed."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:243
+#: includes/admin/supports/class-wprpsp-vc.php:736
+#: includes/admin/supports/class-wprpsp-vc.php:1180
+#: includes/admin/supports/wprpsp-shortcode-fields.php:345
+#: includes/admin/supports/wprpsp-shortcode-fields.php:797
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1180
+msgid ""
+"Note: Be sure you have added valid taxonomy name otherwise no result will be "
+"displayed."
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:114
+msgid "Note: Default `post` will be remain enabled."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:223
+#: includes/admin/supports/class-wprpsp-vc.php:716
+#: includes/admin/supports/class-wprpsp-vc.php:1160
+#: includes/admin/supports/wprpsp-shortcode-fields.php:192
+#: includes/admin/supports/wprpsp-shortcode-fields.php:642
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1039
+msgid ""
+"Note: Extra class added as parent so using extra class you customize your "
+"design."
+msgstr ""
+
+#: edd-post-plugin.php:124
+msgid ""
+"Note: If you do not activate the license then you will not get automatic "
+"update of this plugin any more."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:95
+msgid ""
+"Note: Preview will be displayed according to responsive layout mode. Live "
+"preview may display differently when added to your page based on inheritance "
+"from some styles."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:263
+#: includes/widgets/class-wprpsp-post-list-slider2.php:245
+#: includes/widgets/class-wprpsp-post-slider.php:340
+msgid "Note: This parameter will not work when Number of Items is set to -1."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:196
+#: includes/widgets/class-wprpsp-post-list-slider2.php:192
+#: includes/widgets/class-wprpsp-post-slider.php:197
+msgid "Number of Items"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:328
+#: includes/widgets/class-wprpsp-post-list-slider2.php:310
+#: includes/widgets/class-wprpsp-post-slider.php:331
+#: includes/admin/supports/class-wprpsp-vc.php:511
+#: includes/admin/supports/class-wprpsp-vc.php:1010
+#: includes/admin/supports/class-wprpsp-vc.php:1436
+#: includes/admin/supports/wprpsp-shortcode-fields.php:319
+#: includes/admin/supports/wprpsp-shortcode-fields.php:771
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1154
+msgid "Ondemand"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:216
+#: includes/widgets/class-wprpsp-post-list-slider2.php:212
+#: includes/widgets/class-wprpsp-post-slider.php:262
+msgid "Open Link in a New Tab"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:251
+#: includes/widgets/class-wprpsp-post-slider.php:219
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:204
+msgid "Order By"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:316
+#: includes/widgets/class-wprpsp-post-list-slider2.php:298
+#: includes/widgets/class-wprpsp-post-slider.php:319
+#: includes/admin/supports/class-wprpsp-vc.php:478
+#: includes/admin/supports/class-wprpsp-vc.php:989
+#: includes/admin/supports/class-wprpsp-vc.php:1415
+#: includes/admin/supports/wprpsp-shortcode-fields.php:288
+#: includes/admin/supports/wprpsp-shortcode-fields.php:752
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1135
+msgid "Pause On Focus"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:307
+#: includes/widgets/class-wprpsp-post-list-slider2.php:289
+#: includes/widgets/class-wprpsp-post-slider.php:310
+#: includes/admin/supports/class-wprpsp-vc.php:462
+#: includes/admin/supports/class-wprpsp-vc.php:973
+#: includes/admin/supports/class-wprpsp-vc.php:1399
+#: includes/admin/supports/wprpsp-shortcode-fields.php:274
+#: includes/admin/supports/wprpsp-shortcode-fields.php:738
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1121
+msgid "Pause On Hover"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:472
+#: includes/admin/supports/class-wprpsp-vc.php:983
+#: includes/admin/supports/class-wprpsp-vc.php:1409
+#: includes/admin/supports/wprpsp-shortcode-fields.php:284
+#: includes/admin/supports/wprpsp-shortcode-fields.php:748
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1131
+msgid "Pause slider autoplay on hover."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:489
+#: includes/admin/supports/class-wprpsp-vc.php:1000
+#: includes/admin/supports/class-wprpsp-vc.php:1426
+#: includes/admin/supports/wprpsp-shortcode-fields.php:295
+#: includes/admin/supports/wprpsp-shortcode-fields.php:759
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1142
+msgid "Pause slider autoplay when slider element is focused."
+msgstr ""
+
+#: edd-post-plugin.php:67
+msgid "Please activate plugin license to get automatic update of plugin."
+msgstr ""
+
+#: edd-post-plugin.php:30
+msgid "Plugin License"
+msgstr ""
+
+#: edd-post-plugin.php:63
+msgid "Plugin license activated successfully"
+msgstr ""
+
+#: edd-post-plugin.php:221
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:264
+#: includes/admin/supports/class-wprpsp-vc.php:757
+#: includes/admin/supports/class-wprpsp-vc.php:1201
+#: includes/admin/supports/wprpsp-shortcode-fields.php:362
+#: includes/admin/supports/wprpsp-shortcode-fields.php:814
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1197
+msgid "Post Author"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:186
+msgid "Post Carousel Shortcode."
+msgstr ""
+
+#: includes/wprpsp-functions.php:542
+msgid "Post Carousel Slider"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:211
+msgid "Post Comment Count"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:206
+#: includes/admin/supports/class-wprpsp-vc.php:83
+#: includes/admin/supports/class-wprpsp-vc.php:262
+#: includes/admin/supports/class-wprpsp-vc.php:580
+#: includes/admin/supports/class-wprpsp-vc.php:755
+#: includes/admin/supports/class-wprpsp-vc.php:1058
+#: includes/admin/supports/class-wprpsp-vc.php:1199
+#: includes/admin/supports/wprpsp-shortcode-fields.php:62
+#: includes/admin/supports/wprpsp-shortcode-fields.php:360
+#: includes/admin/supports/wprpsp-shortcode-fields.php:516
+#: includes/admin/supports/wprpsp-shortcode-fields.php:812
+#: includes/admin/supports/wprpsp-shortcode-fields.php:946
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1195
+msgid "Post Date"
+msgstr ""
+
+#: includes/wprpsp-functions.php:543
+msgid "Post Gridbox Slider"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:187
+msgid "Post Gridbox slider Shortcode."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:263
+#: includes/admin/supports/class-wprpsp-vc.php:756
+#: includes/admin/supports/class-wprpsp-vc.php:1200
+#: includes/admin/supports/wprpsp-shortcode-fields.php:361
+#: includes/admin/supports/wprpsp-shortcode-fields.php:813
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1196
+msgid "Post ID"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:208
+msgid "Post Id"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:267
+#: includes/admin/supports/class-wprpsp-vc.php:760
+#: includes/admin/supports/class-wprpsp-vc.php:1204
+#: includes/admin/supports/wprpsp-shortcode-fields.php:365
+#: includes/admin/supports/wprpsp-shortcode-fields.php:817
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1200
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:277
+#: includes/admin/supports/class-wprpsp-vc.php:770
+#: includes/admin/supports/class-wprpsp-vc.php:1214
+#: includes/admin/supports/wprpsp-shortcode-fields.php:373
+#: includes/admin/supports/wprpsp-shortcode-fields.php:825
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1208
+msgid "Post Order"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:259
+#: includes/admin/supports/class-wprpsp-vc.php:752
+#: includes/admin/supports/class-wprpsp-vc.php:1196
+#: includes/admin/supports/wprpsp-shortcode-fields.php:357
+#: includes/admin/supports/wprpsp-shortcode-fields.php:809
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1192
+msgid "Post Order By"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:354
+msgid "Post order saved successfully."
+msgstr ""
+
+#: includes/wprpsp-functions.php:541
+msgid "Post Slider"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:267
+#: includes/widgets/class-wprpsp-post-list-slider2.php:249
+msgid "Post Slider Setting"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:185
+msgid "Post slider Shortcode."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:266
+#: includes/admin/supports/class-wprpsp-vc.php:759
+#: includes/admin/supports/class-wprpsp-vc.php:1203
+#: includes/admin/supports/wprpsp-shortcode-fields.php:364
+#: includes/admin/supports/wprpsp-shortcode-fields.php:816
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1199
+msgid "Post Slug"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:209
+#: includes/admin/supports/class-wprpsp-vc.php:265
+#: includes/admin/supports/class-wprpsp-vc.php:758
+#: includes/admin/supports/class-wprpsp-vc.php:1202
+#: includes/admin/supports/wprpsp-shortcode-fields.php:363
+#: includes/admin/supports/wprpsp-shortcode-fields.php:815
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1198
+msgid "Post Title"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:126
+#: includes/widgets/class-wprpsp-post-list-slider2.php:122
+#: includes/widgets/class-wprpsp-post-slider.php:127
+#: includes/admin/settings/wprpsp-settings.php:104
+#: includes/admin/supports/class-wprpsp-vc.php:230
+#: includes/admin/supports/class-wprpsp-vc.php:723
+#: includes/admin/supports/class-wprpsp-vc.php:1167
+#: includes/admin/supports/wprpsp-shortcode-fields.php:333
+#: includes/admin/supports/wprpsp-shortcode-fields.php:785
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1168
+msgid "Post Type"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:84
+msgid "Post Type Support"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:207
+msgid "Post Updated Date"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:210
+msgid "Post URL Slug"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:436
+msgid "Premium Support"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:436
+msgid "Premium Support - For any Customization"
+msgstr ""
+
+#: edd-post-plugin.php:121
+msgid ""
+"Press 'Activate License'. If your key is valid then you can see green "
+"'Active' text."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:85
+msgid ""
+"Preview will be displayed according to responsive layout mode. You can check "
+"with `Full Preview` mode for better visualization."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:85
+msgid "Preview Window"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:329
+#: includes/widgets/class-wprpsp-post-list-slider2.php:311
+#: includes/widgets/class-wprpsp-post-slider.php:332
+#: includes/admin/supports/class-wprpsp-vc.php:512
+#: includes/admin/supports/class-wprpsp-vc.php:1011
+#: includes/admin/supports/class-wprpsp-vc.php:1437
+#: includes/admin/supports/wprpsp-shortcode-fields.php:320
+#: includes/admin/supports/wprpsp-shortcode-fields.php:772
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1155
+msgid "Progressive"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:263
+#: includes/widgets/class-wprpsp-post-list-slider2.php:245
+#: includes/widgets/class-wprpsp-post-slider.php:340
+msgid ""
+"Query `offset` parameter to exclude number of post. Leave empty for default."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:261
+#: includes/widgets/class-wprpsp-post-list-slider2.php:243
+#: includes/widgets/class-wprpsp-post-slider.php:338
+#: includes/admin/supports/class-wprpsp-vc.php:368
+#: includes/admin/supports/class-wprpsp-vc.php:861
+#: includes/admin/supports/class-wprpsp-vc.php:1305
+#: includes/admin/supports/wprpsp-shortcode-fields.php:452
+#: includes/admin/supports/wprpsp-shortcode-fields.php:904
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1287
+msgid "Query Offset"
+msgstr ""
+
+#: includes/admin/supports/wprpsp-shortcode-fields.php:328
+#: includes/admin/supports/wprpsp-shortcode-fields.php:780
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1163
+msgid "Query Parameters"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-slider.php:212
+#: includes/admin/supports/class-wprpsp-vc.php:268
+#: includes/admin/supports/class-wprpsp-vc.php:761
+#: includes/admin/supports/class-wprpsp-vc.php:1205
+#: includes/admin/supports/wprpsp-shortcode-fields.php:366
+#: includes/admin/supports/wprpsp-shortcode-fields.php:818
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1201
+msgid "Random"
+msgstr ""
+
+#: includes/shortcode/wprpsp-post-carousel.php:97
+#: includes/shortcode/wprpsp-recent-post-slider.php:97
+#: includes/admin/supports/class-wprpsp-vc.php:168
+#: includes/admin/supports/class-wprpsp-vc.php:665
+#: includes/admin/supports/wprpsp-shortcode-fields.php:141
+#: includes/admin/supports/wprpsp-shortcode-fields.php:595
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/supports/wprpsp-shortcode-fields.php:139
+#: includes/admin/supports/wprpsp-shortcode-fields.php:593
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/admin/metabox/wprpsp-post-sett-metabox.php:26
+msgid "Read More Link"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:166
+#: includes/admin/supports/class-wprpsp-vc.php:663
+msgid "Read More Text"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:529
+msgid "Recent Post Carousel"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:1029
+msgid "Recent Post Gridbox Slider"
+msgstr ""
+
+#: wp-recent-post-slider.php:99 includes/admin/class-wprpsp-admin.php:136
+#: includes/admin/supports/class-wprpsp-vc.php:37
+msgid "Recent Post Slider"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:181
+#: includes/admin/supports/class-wprpsp-vc.php:678
+#: includes/admin/supports/class-wprpsp-vc.php:1130
+#: includes/admin/supports/wprpsp-shortcode-fields.php:154
+#: includes/admin/supports/wprpsp-shortcode-fields.php:608
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1012
+msgid "Same Window"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:71
+#: includes/admin/settings/wprpsp-settings.php:119
+#: includes/admin/settings/wprpsp-settings.php:150
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:311
+msgid "Save Sort Order"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:327
+#: includes/widgets/class-wprpsp-post-list-slider2.php:309
+#: includes/widgets/class-wprpsp-post-slider.php:330
+#: includes/admin/supports/class-wprpsp-vc.php:510
+#: includes/admin/supports/class-wprpsp-vc.php:1009
+#: includes/admin/supports/class-wprpsp-vc.php:1435
+#: includes/admin/supports/wprpsp-shortcode-fields.php:318
+#: includes/admin/supports/wprpsp-shortcode-fields.php:770
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1153
+msgid "Select Lazyload"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:514
+#: includes/admin/supports/class-wprpsp-vc.php:1013
+#: includes/admin/supports/class-wprpsp-vc.php:1439
+#: includes/admin/supports/wprpsp-shortcode-fields.php:322
+#: includes/admin/supports/wprpsp-shortcode-fields.php:774
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1157
+msgid "Select option to use lazy loading in slider."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:271
+#: includes/admin/supports/class-wprpsp-vc.php:764
+#: includes/admin/supports/class-wprpsp-vc.php:1208
+#: includes/admin/supports/wprpsp-shortcode-fields.php:369
+#: includes/admin/supports/wprpsp-shortcode-fields.php:821
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1204
+msgid "Select order type."
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:92
+msgid "Select Post Type"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:113
+msgid ""
+"Select post type box to enable. You can enter post type name and category "
+"name within shortcode parameter."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:283
+#: includes/admin/supports/class-wprpsp-vc.php:776
+#: includes/admin/supports/class-wprpsp-vc.php:1220
+#: includes/admin/supports/wprpsp-shortcode-fields.php:379
+#: includes/admin/supports/wprpsp-shortcode-fields.php:831
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1214
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:75
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:139
+msgid "Shortcode Builder"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:139
+msgid "Shortcode Builder - WP Responsive Recent Post Slider Pro"
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:61
+msgid "Shortcode Parameters"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:142
+#: includes/admin/shortcode-mapper/shortcode-preview.php:46
+msgid "Shortcode Preview"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:391
+#: includes/admin/supports/class-wprpsp-vc.php:902
+#: includes/admin/supports/class-wprpsp-vc.php:1328
+#: includes/admin/supports/wprpsp-shortcode-fields.php:215
+#: includes/admin/supports/wprpsp-shortcode-fields.php:679
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1062
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:94
+#: includes/admin/supports/class-wprpsp-vc.php:591
+#: includes/admin/supports/class-wprpsp-vc.php:1069
+#: includes/admin/supports/wprpsp-shortcode-fields.php:72
+#: includes/admin/supports/wprpsp-shortcode-fields.php:526
+#: includes/admin/supports/wprpsp-shortcode-fields.php:956
+msgid "Show Author"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:105
+#: includes/admin/supports/class-wprpsp-vc.php:602
+#: includes/admin/supports/class-wprpsp-vc.php:1080
+#: includes/admin/supports/wprpsp-shortcode-fields.php:82
+#: includes/admin/supports/wprpsp-shortcode-fields.php:536
+#: includes/admin/supports/wprpsp-shortcode-fields.php:966
+msgid "Show Category Name"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:116
+#: includes/admin/supports/class-wprpsp-vc.php:613
+#: includes/admin/supports/class-wprpsp-vc.php:1091
+#: includes/admin/supports/wprpsp-shortcode-fields.php:92
+#: includes/admin/supports/wprpsp-shortcode-fields.php:546
+#: includes/admin/supports/wprpsp-shortcode-fields.php:976
+msgid "Show Content"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:379
+#: includes/admin/supports/class-wprpsp-vc.php:890
+#: includes/admin/supports/class-wprpsp-vc.php:1316
+#: includes/admin/supports/wprpsp-shortcode-fields.php:205
+#: includes/admin/supports/wprpsp-shortcode-fields.php:669
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1052
+msgid "Show Dots"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:385
+#: includes/admin/supports/class-wprpsp-vc.php:896
+#: includes/admin/supports/class-wprpsp-vc.php:1322
+#: includes/admin/supports/wprpsp-shortcode-fields.php:211
+#: includes/admin/supports/wprpsp-shortcode-fields.php:675
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1058
+msgid "Show dots indicators."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:397
+#: includes/admin/supports/class-wprpsp-vc.php:908
+#: includes/admin/supports/class-wprpsp-vc.php:1334
+#: includes/admin/supports/wprpsp-shortcode-fields.php:221
+#: includes/admin/supports/wprpsp-shortcode-fields.php:685
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1068
+msgid "Show prev - next arrows."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:151
+#: includes/admin/supports/class-wprpsp-vc.php:648
+#: includes/admin/supports/wprpsp-shortcode-fields.php:125
+#: includes/admin/supports/wprpsp-shortcode-fields.php:579
+msgid "Show Read More"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:51
+#: includes/admin/supports/wprpsp-shortcode-fields.php:32
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:60
+#: includes/admin/supports/wprpsp-shortcode-fields.php:41
+msgid "Slider Design 10"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:61
+#: includes/admin/supports/wprpsp-shortcode-fields.php:42
+msgid "Slider Design 11"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:62
+#: includes/admin/supports/wprpsp-shortcode-fields.php:43
+msgid "Slider Design 12"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:63
+#: includes/admin/supports/wprpsp-shortcode-fields.php:44
+msgid "Slider Design 13"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:64
+#: includes/admin/supports/wprpsp-shortcode-fields.php:45
+msgid "Slider Design 14"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:65
+#: includes/admin/supports/wprpsp-shortcode-fields.php:46
+msgid "Slider Design 15"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:66
+#: includes/admin/supports/wprpsp-shortcode-fields.php:47
+msgid "Slider Design 16"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:67
+#: includes/admin/supports/wprpsp-shortcode-fields.php:48
+msgid "Slider Design 17"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:68
+#: includes/admin/supports/wprpsp-shortcode-fields.php:49
+msgid "Slider Design 18"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:69
+#: includes/admin/supports/wprpsp-shortcode-fields.php:50
+msgid "Slider Design 19"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:52
+#: includes/admin/supports/wprpsp-shortcode-fields.php:33
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:70
+#: includes/admin/supports/wprpsp-shortcode-fields.php:51
+msgid "Slider Design 20"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:71
+#: includes/admin/supports/wprpsp-shortcode-fields.php:52
+msgid "Slider Design 21"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:72
+#: includes/admin/supports/wprpsp-shortcode-fields.php:53
+msgid "Slider Design 22"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:73
+#: includes/admin/supports/wprpsp-shortcode-fields.php:54
+msgid "Slider Design 23"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:74
+#: includes/admin/supports/wprpsp-shortcode-fields.php:55
+msgid "Slider Design 24"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:75
+#: includes/admin/supports/wprpsp-shortcode-fields.php:56
+msgid "Slider Design 25"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:53
+#: includes/admin/supports/wprpsp-shortcode-fields.php:34
+msgid "Slider Design 3"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:54
+#: includes/admin/supports/wprpsp-shortcode-fields.php:35
+msgid "Slider Design 4"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:55
+#: includes/admin/supports/wprpsp-shortcode-fields.php:36
+msgid "Slider Design 5"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:56
+#: includes/admin/supports/wprpsp-shortcode-fields.php:37
+msgid "Slider Design 6"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:57
+#: includes/admin/supports/wprpsp-shortcode-fields.php:38
+msgid "Slider Design 7"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:58
+#: includes/admin/supports/wprpsp-shortcode-fields.php:39
+msgid "Slider Design 8"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:59
+#: includes/admin/supports/wprpsp-shortcode-fields.php:40
+msgid "Slider Design 9"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:197
+msgid "Slider Height"
+msgstr ""
+
+#: includes/admin/supports/wprpsp-shortcode-fields.php:168
+msgid "Slider Image Height"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:325
+#: includes/widgets/class-wprpsp-post-list-slider2.php:307
+#: includes/widgets/class-wprpsp-post-slider.php:328
+#: includes/admin/supports/class-wprpsp-vc.php:507
+#: includes/admin/supports/class-wprpsp-vc.php:1006
+#: includes/admin/supports/class-wprpsp-vc.php:1432
+#: includes/admin/supports/wprpsp-shortcode-fields.php:315
+#: includes/admin/supports/wprpsp-shortcode-fields.php:767
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1150
+msgid "Slider Lazyload"
+msgstr ""
+
+#: includes/admin/supports/wprpsp-shortcode-fields.php:200
+#: includes/admin/supports/wprpsp-shortcode-fields.php:650
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1047
+msgid "Slider Parameters"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:386
+#: includes/admin/supports/class-wprpsp-vc.php:398
+#: includes/admin/supports/class-wprpsp-vc.php:410
+#: includes/admin/supports/class-wprpsp-vc.php:423
+#: includes/admin/supports/class-wprpsp-vc.php:432
+#: includes/admin/supports/class-wprpsp-vc.php:445
+#: includes/admin/supports/class-wprpsp-vc.php:457
+#: includes/admin/supports/class-wprpsp-vc.php:473
+#: includes/admin/supports/class-wprpsp-vc.php:490
+#: includes/admin/supports/class-wprpsp-vc.php:502
+#: includes/admin/supports/class-wprpsp-vc.php:515
+#: includes/admin/supports/class-wprpsp-vc.php:876
+#: includes/admin/supports/class-wprpsp-vc.php:885
+#: includes/admin/supports/class-wprpsp-vc.php:897
+#: includes/admin/supports/class-wprpsp-vc.php:909
+#: includes/admin/supports/class-wprpsp-vc.php:921
+#: includes/admin/supports/class-wprpsp-vc.php:934
+#: includes/admin/supports/class-wprpsp-vc.php:943
+#: includes/admin/supports/class-wprpsp-vc.php:955
+#: includes/admin/supports/class-wprpsp-vc.php:968
+#: includes/admin/supports/class-wprpsp-vc.php:984
+#: includes/admin/supports/class-wprpsp-vc.php:1001
+#: includes/admin/supports/class-wprpsp-vc.php:1014
+#: includes/admin/supports/class-wprpsp-vc.php:1323
+#: includes/admin/supports/class-wprpsp-vc.php:1335
+#: includes/admin/supports/class-wprpsp-vc.php:1347
+#: includes/admin/supports/class-wprpsp-vc.php:1360
+#: includes/admin/supports/class-wprpsp-vc.php:1369
+#: includes/admin/supports/class-wprpsp-vc.php:1382
+#: includes/admin/supports/class-wprpsp-vc.php:1394
+#: includes/admin/supports/class-wprpsp-vc.php:1410
+#: includes/admin/supports/class-wprpsp-vc.php:1427
+#: includes/admin/supports/class-wprpsp-vc.php:1440
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:872
+#: includes/admin/supports/wprpsp-shortcode-fields.php:655
+msgid "Slides Column"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:881
+#: includes/admin/supports/wprpsp-shortcode-fields.php:662
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:327
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:34
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:89
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/class-wprpsp-script.php:81
+msgid ""
+"Sorry, Something happened wrong. Kindly please be sure that you have choosen "
+"relevant shortocde from the dropdown."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/shortcode-preview.php:37
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/shortcode-preview.php:68
+msgid "Sorry, You can not visit the link in preview"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:292
+msgid "Sort Post"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:301
+#: includes/widgets/class-wprpsp-post-list-slider2.php:283
+#: includes/widgets/class-wprpsp-post-slider.php:304
+#: includes/admin/supports/class-wprpsp-vc.php:428
+#: includes/admin/supports/class-wprpsp-vc.php:939
+#: includes/admin/supports/class-wprpsp-vc.php:1365
+#: includes/admin/supports/wprpsp-shortcode-fields.php:246
+#: includes/admin/supports/wprpsp-shortcode-fields.php:710
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1093
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:174
+msgid "Step-1. Create a page like Latest Post OR add the shortcode in a page."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:158
+msgid ""
+"Step-1: This plugin create a tab \"Recent Post Slider\" in WordPress menu "
+"section."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:175
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:159
+msgid ""
+"Step-2: This plugin works with WordPress post as well as custom post type. "
+"Kindly navigate to plugin settings and enable your relevant post type."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:160
+msgid "Step-3: Go to \"Posts --> Add new\"."
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:161
+msgid ""
+"Step-4: This plugin get all the latest POST from WordPress post section with "
+"a simple shortcode."
+msgstr ""
+
+#: edd-post-plugin.php:117
+msgid "Steps to Activate the License"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:106
+#: includes/admin/supports/class-wprpsp-vc.php:240
+#: includes/admin/supports/class-wprpsp-vc.php:733
+#: includes/admin/supports/class-wprpsp-vc.php:1177
+#: includes/admin/supports/wprpsp-shortcode-fields.php:341
+#: includes/admin/supports/wprpsp-shortcode-fields.php:793
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1176
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:142
+#: includes/widgets/class-wprpsp-post-list-slider2.php:138
+#: includes/widgets/class-wprpsp-post-slider.php:143
+msgid "Texonomy"
+msgstr ""
+
+#: wp-recent-post-slider.php:206
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: edd-post-plugin.php:122
+msgid "That's it. Now you can get auto update of this plugin."
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:56
+msgid ""
+"The Shortcode Mapper allows you to preview plugin shortcode. You can choose "
+"your desired shortcode from the dropdown and check various parameters from "
+"left panel. \n"
+"\n"
+"You can paste shortocde to below and press Generate button to preview so "
+"each and every time you do not have to choose each parameters!!!"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:98
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: edd-post-plugin.php:232
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:120
+#: includes/widgets/class-wprpsp-post-list-slider2.php:116
+#: includes/widgets/class-wprpsp-post-slider.php:121
+msgid "Title"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:250
+#: includes/admin/supports/class-wprpsp-vc.php:743
+#: includes/admin/supports/class-wprpsp-vc.php:1187
+#: includes/admin/supports/wprpsp-shortcode-fields.php:349
+#: includes/admin/supports/wprpsp-shortcode-fields.php:801
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1184
+msgid "Total items"
+msgstr ""
+
+#: includes/widgets/class-wprpsp-post-list-slider.php:279
+#: includes/widgets/class-wprpsp-post-list-slider.php:288
+#: includes/widgets/class-wprpsp-post-list-slider.php:309
+#: includes/widgets/class-wprpsp-post-list-slider.php:318
+#: includes/widgets/class-wprpsp-post-list-slider2.php:261
+#: includes/widgets/class-wprpsp-post-list-slider2.php:270
+#: includes/widgets/class-wprpsp-post-list-slider2.php:291
+#: includes/widgets/class-wprpsp-post-list-slider2.php:300
+#: includes/widgets/class-wprpsp-post-slider.php:282
+#: includes/widgets/class-wprpsp-post-slider.php:291
+#: includes/widgets/class-wprpsp-post-slider.php:312
+#: includes/widgets/class-wprpsp-post-slider.php:321
+#: includes/admin/supports/class-wprpsp-vc.php:86
+#: includes/admin/supports/class-wprpsp-vc.php:97
+#: includes/admin/supports/class-wprpsp-vc.php:108
+#: includes/admin/supports/class-wprpsp-vc.php:119
+#: includes/admin/supports/class-wprpsp-vc.php:154
+#: includes/admin/supports/class-wprpsp-vc.php:212
+#: includes/admin/supports/class-wprpsp-vc.php:301
+#: includes/admin/supports/class-wprpsp-vc.php:358
+#: includes/admin/supports/class-wprpsp-vc.php:382
+#: includes/admin/supports/class-wprpsp-vc.php:394
+#: includes/admin/supports/class-wprpsp-vc.php:406
+#: includes/admin/supports/class-wprpsp-vc.php:440
+#: includes/admin/supports/class-wprpsp-vc.php:453
+#: includes/admin/supports/class-wprpsp-vc.php:465
+#: includes/admin/supports/class-wprpsp-vc.php:481
+#: includes/admin/supports/class-wprpsp-vc.php:583
+#: includes/admin/supports/class-wprpsp-vc.php:594
+#: includes/admin/supports/class-wprpsp-vc.php:605
+#: includes/admin/supports/class-wprpsp-vc.php:616
+#: includes/admin/supports/class-wprpsp-vc.php:651
+#: includes/admin/supports/class-wprpsp-vc.php:705
+#: includes/admin/supports/class-wprpsp-vc.php:794
+#: includes/admin/supports/class-wprpsp-vc.php:851
+#: includes/admin/supports/class-wprpsp-vc.php:893
+#: includes/admin/supports/class-wprpsp-vc.php:905
+#: includes/admin/supports/class-wprpsp-vc.php:917
+#: includes/admin/supports/class-wprpsp-vc.php:951
+#: includes/admin/supports/class-wprpsp-vc.php:963
+#: includes/admin/supports/class-wprpsp-vc.php:976
+#: includes/admin/supports/class-wprpsp-vc.php:992
+#: includes/admin/supports/class-wprpsp-vc.php:1061
+#: includes/admin/supports/class-wprpsp-vc.php:1072
+#: includes/admin/supports/class-wprpsp-vc.php:1083
+#: includes/admin/supports/class-wprpsp-vc.php:1094
+#: includes/admin/supports/class-wprpsp-vc.php:1149
+#: includes/admin/supports/class-wprpsp-vc.php:1238
+#: includes/admin/supports/class-wprpsp-vc.php:1295
+#: includes/admin/supports/class-wprpsp-vc.php:1319
+#: includes/admin/supports/class-wprpsp-vc.php:1331
+#: includes/admin/supports/class-wprpsp-vc.php:1343
+#: includes/admin/supports/class-wprpsp-vc.php:1377
+#: includes/admin/supports/class-wprpsp-vc.php:1390
+#: includes/admin/supports/class-wprpsp-vc.php:1402
+#: includes/admin/supports/class-wprpsp-vc.php:1418
+#: includes/admin/supports/wprpsp-shortcode-fields.php:65
+#: includes/admin/supports/wprpsp-shortcode-fields.php:75
+#: includes/admin/supports/wprpsp-shortcode-fields.php:85
+#: includes/admin/supports/wprpsp-shortcode-fields.php:95
+#: includes/admin/supports/wprpsp-shortcode-fields.php:128
+#: includes/admin/supports/wprpsp-shortcode-fields.php:182
+#: includes/admin/supports/wprpsp-shortcode-fields.php:208
+#: includes/admin/supports/wprpsp-shortcode-fields.php:218
+#: includes/admin/supports/wprpsp-shortcode-fields.php:228
+#: includes/admin/supports/wprpsp-shortcode-fields.php:256
+#: includes/admin/supports/wprpsp-shortcode-fields.php:267
+#: includes/admin/supports/wprpsp-shortcode-fields.php:277
+#: includes/admin/supports/wprpsp-shortcode-fields.php:291
+#: includes/admin/supports/wprpsp-shortcode-fields.php:394
+#: includes/admin/supports/wprpsp-shortcode-fields.php:444
+#: includes/admin/supports/wprpsp-shortcode-fields.php:519
+#: includes/admin/supports/wprpsp-shortcode-fields.php:529
+#: includes/admin/supports/wprpsp-shortcode-fields.php:539
+#: includes/admin/supports/wprpsp-shortcode-fields.php:549
+#: includes/admin/supports/wprpsp-shortcode-fields.php:582
+#: includes/admin/supports/wprpsp-shortcode-fields.php:632
+#: includes/admin/supports/wprpsp-shortcode-fields.php:672
+#: includes/admin/supports/wprpsp-shortcode-fields.php:682
+#: includes/admin/supports/wprpsp-shortcode-fields.php:692
+#: includes/admin/supports/wprpsp-shortcode-fields.php:720
+#: includes/admin/supports/wprpsp-shortcode-fields.php:730
+#: includes/admin/supports/wprpsp-shortcode-fields.php:741
+#: includes/admin/supports/wprpsp-shortcode-fields.php:755
+#: includes/admin/supports/wprpsp-shortcode-fields.php:846
+#: includes/admin/supports/wprpsp-shortcode-fields.php:896
+#: includes/admin/supports/wprpsp-shortcode-fields.php:949
+#: includes/admin/supports/wprpsp-shortcode-fields.php:959
+#: includes/admin/supports/wprpsp-shortcode-fields.php:969
+#: includes/admin/supports/wprpsp-shortcode-fields.php:979
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1029
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1055
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1065
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1075
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1103
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1114
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1124
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1138
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1229
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1279
+msgid "True"
+msgstr ""
+
+#: includes/admin/wprpsp-how-it-work.php:189
+msgid "Try Our Shortcode Builder!!"
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:59
+msgid ""
+"Upload default featured image or provide an external URL of image. If your "
+"post does not have featured image then this will be displayed instead of "
+"blank grey box."
+msgstr ""
+
+#: includes/admin/settings/wprpsp-settings.php:58
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:435
+msgid "View Documentation"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-wprpsp-admin.php:136
+msgid "WP Responsive Recent Post Slider Pro"
+msgstr ""
+
+#: edd-post-plugin.php:46
+msgid "WP Responsive Recent Post Slider Pro - License Options"
+msgstr ""
+
+#: includes/admin/class-wprpsp-admin.php:87
+#: includes/admin/settings/wprpsp-settings.php:19
+msgid "WP Responsive Recent Post Slider Pro - Settings"
+msgstr ""
+
+#: includes/admin/shortcode-mapper/wprpsp-shortcode-mapper.php:28
+msgid "WP Responsive Recent Post Slider Pro - Shortcode Builder"
+msgstr ""
+
+#: edd-post-plugin.php:30
+msgid "WP Responsive Recent Post Slider Pro License"
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:570
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:292
+#: includes/admin/supports/class-wprpsp-vc.php:313
+#: includes/admin/supports/class-wprpsp-vc.php:785
+#: includes/admin/supports/class-wprpsp-vc.php:806
+#: includes/admin/supports/class-wprpsp-vc.php:1229
+#: includes/admin/supports/class-wprpsp-vc.php:1250
+#: includes/admin/supports/wprpsp-shortcode-fields.php:387
+#: includes/admin/supports/wprpsp-shortcode-fields.php:405
+#: includes/admin/supports/wprpsp-shortcode-fields.php:839
+#: includes/admin/supports/wprpsp-shortcode-fields.php:857
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1222
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1240
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"category listing page."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:322
+#: includes/admin/supports/class-wprpsp-vc.php:331
+#: includes/admin/supports/class-wprpsp-vc.php:815
+#: includes/admin/supports/class-wprpsp-vc.php:824
+#: includes/admin/supports/class-wprpsp-vc.php:1259
+#: includes/admin/supports/class-wprpsp-vc.php:1268
+#: includes/admin/supports/wprpsp-shortcode-fields.php:413
+#: includes/admin/supports/wprpsp-shortcode-fields.php:421
+#: includes/admin/supports/wprpsp-shortcode-fields.php:865
+#: includes/admin/supports/wprpsp-shortcode-fields.php:873
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1248
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1256
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"post listing page."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:349
+#: includes/admin/supports/class-wprpsp-vc.php:842
+#: includes/admin/supports/class-wprpsp-vc.php:1286
+#: includes/admin/supports/wprpsp-shortcode-fields.php:437
+#: includes/admin/supports/wprpsp-shortcode-fields.php:889
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1272
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"users listing page."
+msgstr ""
+
+#: includes/admin/supports/class-wprpsp-vc.php:340
+#: includes/admin/supports/class-wprpsp-vc.php:833
+#: includes/admin/supports/class-wprpsp-vc.php:1277
+#: includes/admin/supports/wprpsp-shortcode-fields.php:429
+#: includes/admin/supports/wprpsp-shortcode-fields.php:881
+#: includes/admin/supports/wprpsp-shortcode-fields.php:1264
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at users "
+"listing page."
+msgstr ""
+
+#: edd-post-plugin.php:125
+msgid ""
+"You will receive license key within your product purchase email. If you do "
+"not have license key then you can get it from your"
+msgstr ""
+
+#: edd-post-plugin.php:53 includes/admin/settings/wprpsp-settings.php:25
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: edd-post-plugin.php:227
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: edd-post-plugin.php:209
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: edd-post-plugin.php:216
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: edd-post-plugin.php:237
+msgid "Your license key has reached its activation limit."
+msgstr ""

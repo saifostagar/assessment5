@@ -1,0 +1,55 @@
+.wprpsp-img-view img{padding: 5px; margin: 5px 0; max-width: 150px; max-height: 150px; border: 1px solid #ccc;}
+.wprpsp-post-type-wrap{margin:0 0 3px 0;}
+
+/***** Shortocde Mapper *****/
+.wprpsp-hide{display:none;}
+.wprpsp-customizer-control *{box-sizing: border-box;}
+.wprpsp-customizer-control{float: left; list-style: outside none none; padding:0; position: relative; width: 300px; word-wrap: break-word; margin:0; transition: all 0.5s ease-in-out 0s; -webkit-transition: all 0.5s ease-in-out 0s;}
+.wprpsp-cust-accordion{background-color: #f5f5f5; border:1px solid #e2dddb; max-height:653px; overflow:auto;}
+.wprpsp-customizer-preview{margin-left: 350px;}
+.wprpsp-customizer-preview *{-webkit-box-sizing: border-box; -moz-box-sizing: border-box;box-sizing: border-box; outline:none;}
+.wprpsp-customizer-preview iframe{position: absolute; height: 100%; width: 100%; padding: 15px 0;}
+.wprpsp-customizer-window{position: relative; min-height: 550px; background-color: #fff; border: 1px solid #e2dddb;}
+.wprpsp-customizer-shrt-wrp{margin:0 0 5px 0;}
+.wprpsp-customizer-shrt{width: 100%; resize: none; height: 65px;}
+.wprpsp-customizer-loader{display: none; position: absolute; height: 100%; width: 100%; opacity: 0.8; background: url("../images/spinner.gif") center center no-repeat; background-color: #fff; background-position: center center;}
+.wprpsp-customizer-error{display: none; position: absolute; color: #a94442; background-color: #f2dede; border:1px solid #ebccd1; max-width:300px; width: 100%; left:0; right:0; top: 49%; margin:auto; padding:10px; text-align: center;}
+.wprpsp-customizer-heading{margin: 0 0 10px 0; font-size: 14px; font-weight: 600;}
+.wprpsp-customizer-heading .wprpsp-cust-heading-info{cursor:help;}
+.wprpsp-customizer-shrt-tool{float:right;}
+.wprpsp-customizer-shrt-tool .button{border-radius:0; border:0;}
+.wprpsp-cust-dwp{cursor: pointer; height: auto; width: auto; border: 1px solid #ccc; padding: 2px; background-color: #fff; transition: all 0.3s ease-in-out 0s; -webkit-transition: all 0.3s ease-in-out 0s;}
+.wprpsp-cust-dwp-active{background-color: #32373C; border: 1px solid #32373C; color: #fff;}
+
+.wprpsp-accordion-header{background-color: #fff; padding: 12px; font-size: 14px; font-weight: 600; cursor: pointer; border-color: #e2dddb; border-style: none none solid none; border-width: 1px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;}
+.wprpsp-accordion-header span.ui-icon{float: right;}
+.wprpsp-accordion-header.ui-accordion-header-active{border:0;}
+.wprpsp-accordion-cnt{display: none; background-color: #fff; padding: 12px; border-bottom:1px solid #e2dddb;}
+
+.wprpsp-customizer-control .wprpsp-customizer-row{margin: 0 0 15px 0;}
+.wprpsp-customizer-control .description{margin: 2px 0 0 0; display: block; color: #555d66; font-size: 12px; line-height: 1.5;}
+.wprpsp-customizer-control .wprpsp-customizer-lbl{display: block; font-size: 14px; line-height: 24px; font-weight: 600; margin-bottom: 4px;}
+.wprpsp-customizer-control .wprpsp-cust-field-lbl{margin:0 5px 0 0;}
+.wprpsp-customizer-control input[type="number"], .wprpsp-customizer-control input[type="search"], .wprpsp-customizer-control input[type="tel"], .wprpsp-customizer-control input[type="url"], .wprpsp-customizer-control input[type="text"], .wprpsp-customizer-control input[type="password"], .wprpsp-customizer-control input[type="email"], .wprpsp-customizer-control select{
+	width: 100%; margin: 0;
+}
+.wprpsp-cust-full-preview .wprpsp-customizer-control{
+	-webkit-transform: translateX(-150%);
+	transform: translateX(-150%);
+	height: 0;
+}
+.wprpsp-cust-full-preview .wprpsp-customizer-preview{margin-left:0; transition: all 0.5s ease-in-out 0s; -webkit-transition: all 0.5s ease-in-out 0s;}
+
+.wprpsp-customizer-toolbar{margin: 0 0 15px 0; text-align: right;}
+.wprpsp-customizer-toolbar .wprpsp-cust-shrt-switcher{min-width: 200px; max-width: 200px; margin-top:0; margin-bottom:0; min-height:30px;}
+.wprpsp-customizer-toolbar .wprpsp-cust-shrt-generate-help i{font-size: 30px; height: auto; width: auto; cursor: pointer; vertical-align: middle;}
+
+@media only screen and (max-width:320px) {
+	.wprpsp-customizer-toolbar .wprpsp-cust-shrt-switcher{min-width: auto; max-width: 160px;}
+}
+@media only screen and (max-width: 568px) {
+	.wprpsp-customizer-control{max-height: none; width: 100%; float: none;}
+	.wprpsp-customizer-preview{margin: 20px 0 0 0;}
+	.wprpsp-customizer-shrt-tool .wprpsp-cust-dwp{display: none;}
+	.wprpsp-customizer-toolbar{margin: 15px 0;}
+}
