@@ -380,10 +380,8 @@
 }
 
 .page_title {
-    width: 336px;
-    height: 144px;
     margin: 90px 147px 103px 0;
-    font-family: Inter;
+
     font-size: 40px;
     font-weight: 900;
     font-stretch: normal;
@@ -399,6 +397,28 @@
     height: 360px;
     margin-top: -22px;
 }
+
+
+
+
+
+
+
+/*about page*/
+
+.about_bullet{
+    list-style: circle; /* Remove default bullets */
+}
+      
+.about_bullet li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color:#0070c2; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    margin-right: 14px;/* Also needed for space (tweak if needed) */
+    margin-left: -20px;
+}
+
 
 
 /*rfp page*/
@@ -437,6 +457,10 @@
     letter-spacing: normal;
     color: #646f8d;
 
+}
+
+.rfp_date_section h3{
+    padding-left: 7px;
 }
 
 .rfp_header {
@@ -547,7 +571,7 @@
 
 .announce_page_img img{
     width: 100%;
-    height: auto;
+    height:auto;
     margin: 0 24px 3px 0;
 }
 
@@ -585,7 +609,8 @@
 /* job page */
 
 .job_page_body{
-    padding: 42px 42px 0px 42px;
+    font-family: Inter;
+    padding: 0px 42px 0px 42px;
     border-radius: 10px;
     border: solid 1px rgba(0, 0, 0, 0.2);
     margin-bottom: 55px;
@@ -618,7 +643,6 @@
 .job_page_org::before {
     content: url('../assets/img/ic-company-blue.png');
     padding-right: 6px;
-    display: inline-flexbox;
 
 }
 
@@ -635,7 +659,7 @@
 .job_page_location::before {
     content: url('../assets/img/ic-location-blue.png');
     padding-right: 6px;
-    display: inline;
+    margin-bottom: -6px;
 
 }
 
@@ -656,6 +680,8 @@
     color: white;
     text-decoration-style: none;
 }
+
+
 
 
 /* css for tab device */
@@ -720,6 +746,9 @@
 
     .single_job{
         padding: 14px 0px 24px 14px;
+        
+        
+        
     }
 
     .announce_page_body{
@@ -728,6 +757,7 @@
 
     .announce_page_img img{
         width: 100%;
+        
         margin: 0px;
     }
 
@@ -771,6 +801,19 @@
         padding: 32px;
     }
 
+    .about_bullet{
+        list-style: none; /* Remove default bullets */
+    }
+    .about_bullet li::before {
+        font-weight: bold;
+        margin-right: 8px;/* Also needed for space (tweak if needed) */
+        margin-left: -14px;
+    }
+
+    .rfp_date_section h3{
+        padding-left: 0px;
+    }
+
 }
 
 
@@ -785,6 +828,10 @@
 .wppsac-post-content-position  h2.wppsac-post-title{
     height:70px;
 }
+
+/*
+Testing Line for server
+*/
 
 
 
