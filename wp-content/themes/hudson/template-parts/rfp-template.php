@@ -89,7 +89,7 @@ if ($rfp_search_results->have_posts()) :
                             ?> Days</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-lg-3 col-sm-12 col-xs-12 pt-4">
+                <div class="col-md-3 col-lg-3 col-sm-12 col-xs-12 pt-4 rfp_date_section">
                     <h3 class="rfp_para">Date Issued</h3>
                     <div>
                         <p> <?php echo $rfp_issued_date; ?> </p>
